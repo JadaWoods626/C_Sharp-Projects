@@ -33,7 +33,7 @@ namespace Income
 
             Console.WriteLine("Hello " + yourNameTwo + " what is your hourly rate?");
             string hourlyRateTwo = Console.ReadLine();
-            int perTwoHour = Convert.ToInt32(hourlyRate);
+            int perTwoHour = Convert.ToInt32(hourlyRateTwo);
 
             Console.WriteLine("Okay " + yourNameTwo + " how many hours did you work this week?");
             string hoursWorkedTwo = Console.ReadLine();

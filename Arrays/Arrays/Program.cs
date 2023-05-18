@@ -31,7 +31,7 @@ namespace Arrays
             Console.ReadLine();
 
             Console.WriteLine("Select an index of the Array");
-            int[] Alphebet = new int[] { a, b, c, d, e };
+            string[] Alphebet = { "a", "b", "c", "d", "e" };
             Console.WriteLine(Alphebet);
         }
     }
