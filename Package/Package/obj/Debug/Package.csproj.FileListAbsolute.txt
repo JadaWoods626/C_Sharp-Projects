@@ -1,0 +1,7 @@
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Package\Package\bin\Debug\Package.exe.config
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Package\Package\bin\Debug\Package.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Package\Package\bin\Debug\Package.pdb
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Package\Package\obj\Debug\Package.csproj.AssemblyReference.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Package\Package\obj\Debug\Package.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Package\Package\obj\Debug\Package.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Package\Package\obj\Debug\Package.pdb

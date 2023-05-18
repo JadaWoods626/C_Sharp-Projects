@@ -21,7 +21,6 @@ namespace Dui
             Console.WriteLine("How many speeding tickets do you have?");
             string yourTickets = Console.ReadLine();
             int tickets = Convert.ToInt32(yourTickets);
-            Console.ReadLine();
 
             Console.WriteLine("Qualified?");
             bool qualified = (age >= 18 && noDui && tickets <= 3);
