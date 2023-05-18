@@ -1,0 +1,7 @@
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Dui\Dui\obj\Debug\Dui.csproj.AssemblyReference.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Dui\Dui\obj\Debug\Dui.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Dui\Dui\bin\Debug\Dui.exe.config
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Dui\Dui\bin\Debug\Dui.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Dui\Dui\bin\Debug\Dui.pdb
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Dui\Dui\obj\Debug\Dui.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Dui\Dui\obj\Debug\Dui.pdb
