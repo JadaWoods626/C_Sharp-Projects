@@ -13,7 +13,7 @@ namespace ConsoleApp
             Console.WriteLine("Guess a number between 1 - 20");
             int number = Convert.ToInt32(Console.ReadLine());
             bool guessed = number == 8;
-
+            //Do while Statement
             do
             {
                 switch (number)
@@ -78,9 +78,52 @@ namespace ConsoleApp
                         break;
                 }
             }
+
+
             while (!guessed);
-            
+
             Console.Read();
-        }
+
+            Console.WriteLine("Guess a number between 1 - 10");
+            int num = Convert.ToInt32(Console.ReadLine());
+            bool guess = num == 3;
+
+            //while statement
+            while (guess == false)
+            {
+                switch (num)
+                {
+                    case 3:
+                        Console.WriteLine("Great job on guessing correctly!");
+                        guess = true;
+                        break;
+
+                    case 2:
+                        Console.WriteLine("Not quite right, try again");
+                        Console.WriteLine("Guess a number between 1 - 10");
+                        num = Convert.ToInt32(Console.ReadLine());
+                        break;
+
+                    case 4:
+                        Console.WriteLine("So Close, try again");
+                        Console.WriteLine("Guess a number between 1 - 10");
+                        num = Convert.ToInt32(Console.ReadLine());
+                        break;
+
+                    case 1:
+                        Console.WriteLine("Nice try but that is not correct");
+                        Console.WriteLine("Guess a number between 1 - 10");
+                        num = Convert.ToInt32(Console.ReadLine());
+                        break;
+
+                    default:
+                        Console.WriteLine("Nope, Try again");
+                        Console.WriteLine("Guess a number between 1 - 10");
+                        num = Convert.ToInt32(Console.ReadLine());
+                        break;
+                }
+
+            }
+        }   
     }
 }
