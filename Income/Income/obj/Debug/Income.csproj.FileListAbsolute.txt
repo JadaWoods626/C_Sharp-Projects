@@ -1,0 +1,7 @@
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Income\Income\obj\Debug\Income.csproj.AssemblyReference.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Income\Income\obj\Debug\Income.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Income\Income\bin\Debug\Income.exe.config
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Income\Income\bin\Debug\Income.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Income\Income\bin\Debug\Income.pdb
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Income\Income\obj\Debug\Income.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Income\Income\obj\Debug\Income.pdb
