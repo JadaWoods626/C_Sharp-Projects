@@ -2,16 +2,6 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your Javascript code.
-var id = setInterval(frame, 5);
-
-function frame() {
-    if (/* test for finished */) {
-        clearInterval(id);
-    } else {
-        /* code to change the element style */
-    }
-}
-
 var id = null;
 function myMove() {
     var elem = document.getElementById("myAnimation");
