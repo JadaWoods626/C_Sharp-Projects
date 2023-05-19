@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvejAr1idMUdtPAdmjWn4+vii4NqplMb+tVH42p149VIoHbuXdy2h26/FDMn9aECWwcqpa6Kb2UpakEn9VTzEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryan\\Documents\\Jada's Github\\C_Sharp-Portfolio\\Hello World 2\\Hello World 2\\Hello World 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
