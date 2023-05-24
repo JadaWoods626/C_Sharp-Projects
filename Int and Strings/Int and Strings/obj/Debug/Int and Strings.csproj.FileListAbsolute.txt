@@ -1,0 +1,7 @@
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Int and Strings\Int and Strings\bin\Debug\Int and Strings.exe.config
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Int and Strings\Int and Strings\bin\Debug\Int and Strings.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Int and Strings\Int and Strings\bin\Debug\Int and Strings.pdb
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Int and Strings\Int and Strings\obj\Debug\Int and Strings.csproj.AssemblyReference.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Int and Strings\Int and Strings\obj\Debug\Int and Strings.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Int and Strings\Int and Strings\obj\Debug\Int and Strings.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Int and Strings\Int and Strings\obj\Debug\Int and Strings.pdb
