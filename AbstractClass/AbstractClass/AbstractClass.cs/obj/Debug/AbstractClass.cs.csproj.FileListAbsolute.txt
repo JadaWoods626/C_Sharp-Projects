@@ -1,0 +1,7 @@
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\AbstractClass\AbstractClass\AbstractClass.cs\bin\Debug\AbstractClass.cs.exe.config
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\AbstractClass\AbstractClass\AbstractClass.cs\bin\Debug\AbstractClass.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\AbstractClass\AbstractClass\AbstractClass.cs\bin\Debug\AbstractClass.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\AbstractClass\AbstractClass\AbstractClass.cs\obj\Debug\AbstractClass.cs.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\AbstractClass\AbstractClass\AbstractClass.cs\obj\Debug\AbstractClass.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\AbstractClass\AbstractClass\AbstractClass.cs\obj\Debug\AbstractClass.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\AbstractClass\AbstractClass\AbstractClass.cs\obj\Debug\AbstractClass.cs.csproj.AssemblyReference.cache
