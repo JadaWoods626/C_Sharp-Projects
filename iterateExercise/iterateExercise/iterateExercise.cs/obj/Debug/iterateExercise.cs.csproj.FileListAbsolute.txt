@@ -1,0 +1,7 @@
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\iterateExercise\iterateExercise\iterateExercise.cs\bin\Debug\iterateExercise.cs.exe.config
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\iterateExercise\iterateExercise\iterateExercise.cs\bin\Debug\iterateExercise.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\iterateExercise\iterateExercise\iterateExercise.cs\bin\Debug\iterateExercise.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\iterateExercise\iterateExercise\iterateExercise.cs\obj\Debug\iterateExercise.cs.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\iterateExercise\iterateExercise\iterateExercise.cs\obj\Debug\iterateExercise.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\iterateExercise\iterateExercise\iterateExercise.cs\obj\Debug\iterateExercise.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\iterateExercise\iterateExercise\iterateExercise.cs\obj\Debug\iterateExercise.cs.csproj.AssemblyReference.cache
