@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6C497830-6F5E-48D9-83F9-EB85289E863F}</ProjectGuid>
+    <ProjectGuid>{85ED8E75-D223-468A-B161-BEED46D96EBB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Polymorphism</RootNamespace>
-    <AssemblyName>Polymorphism</AssemblyName>
+    <RootNamespace>Operators</RootNamespace>
+    <AssemblyName>Operators</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="Iquittable.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
