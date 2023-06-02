@@ -11,13 +11,13 @@ namespace LAMDA
         static void Main(string[] args)
         {
             List<Employee> employeeList = new List<Employee> { new Employee(), new Employee(), new Employee(), new Employee(), new Employee(), new Employee(), new Employee(), new Employee(), new Employee(), new Employee() }; // 10 employees
-            employeeList[0].FirstName = "Daniel"; //instance of joe
+            employeeList[0].FirstName = "Daniel"; //instance of daniel
             employeeList[0].Id = 5; // assign id = 
 
-            employeeList[1].FirstName = "Jada"; //instance of joe
+            employeeList[1].FirstName = "Jada"; //instance of jada
             employeeList[1].Id = 6; // assign id =
 
-            employeeList[2].FirstName = "Daniel"; //instance of sue
+            employeeList[2].FirstName = "Daniel"; //instance of daniel
             employeeList[2].Id = 7; // assign id =
 
             List<Employee> joeList = new List<Employee>();
