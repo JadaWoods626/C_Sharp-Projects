@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Polymorphism
 {
-    class Person
-    {
+   
         public abstract class Person 
         {
 
@@ -29,5 +28,4 @@ namespace Polymorphism
 
             }
         }
-    }
 }       
