@@ -12,7 +12,7 @@ namespace CodeFirstChallenge
         {
             using(var studentCtx = new StudentContext())
             {
-                var student = new Student() { StudentId = 0, StudentFName = "Ryan", StudentLName = "Spears", StudentGrade = 12 };
+                var student = new Student() { StudentId = 0, StudentFName = "Jada", StudentLName = "Woods", StudentGrade = 12 };
 
                 studentCtx.students.Add(student);
                 studentCtx.SaveChanges();

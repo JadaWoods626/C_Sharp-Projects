@@ -15,5 +15,6 @@ namespace CodeFirstChallenge
         }
 
         public DbSet<Student> students { get; set; }
+        public DbSet<Grade> Grades { get; set; }
     }
 }
