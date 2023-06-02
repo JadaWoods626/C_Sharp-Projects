@@ -186,7 +186,7 @@ namespace CarInsurance.Controllers
             // Check for Full Coverage
             if(insuree.CoverageType == true)
             {
-                decimal num = monthlyPrice *= Convert.ToDecimal(.5);
+                decimal num = monthlyPrice * Convert.ToDecimal(.5);
                 monthlyPrice += num;
             }
 
