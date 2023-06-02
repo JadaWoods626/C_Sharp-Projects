@@ -1,0 +1,7 @@
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\ParsingEnums\ParsingEnums\ParsingEnums.cs\bin\Debug\ParsingEnums.cs.exe.config
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\ParsingEnums\ParsingEnums\ParsingEnums.cs\bin\Debug\ParsingEnums.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\ParsingEnums\ParsingEnums\ParsingEnums.cs\bin\Debug\ParsingEnums.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\ParsingEnums\ParsingEnums\ParsingEnums.cs\obj\Debug\ParsingEnums.cs.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\ParsingEnums\ParsingEnums\ParsingEnums.cs\obj\Debug\ParsingEnums.cs.exe
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\ParsingEnums\ParsingEnums\ParsingEnums.cs\obj\Debug\ParsingEnums.cs.pdb
+C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\ParsingEnums\ParsingEnums\ParsingEnums.cs\obj\Debug\ParsingEnums.cs.csproj.AssemblyReference.cache
