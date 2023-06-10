@@ -1,7 +1,0 @@
-C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\MethodClass\MethodClass\MethodClass.cs\bin\Debug\MethodClass.cs.exe.config
-C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\MethodClass\MethodClass\MethodClass.cs\bin\Debug\MethodClass.cs.exe
-C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\MethodClass\MethodClass\MethodClass.cs\bin\Debug\MethodClass.cs.pdb
-C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\MethodClass\MethodClass\MethodClass.cs\obj\Debug\MethodClass.cs.csproj.AssemblyReference.cache
-C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\MethodClass\MethodClass\MethodClass.cs\obj\Debug\MethodClass.cs.csproj.CoreCompileInputs.cache
-C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\MethodClass\MethodClass\MethodClass.cs\obj\Debug\MethodClass.cs.exe
-C:\Users\Ryan Spears\Documents\GitHub\CSharp_Projects\MethodClass\MethodClass\MethodClass.cs\obj\Debug\MethodClass.cs.pdb

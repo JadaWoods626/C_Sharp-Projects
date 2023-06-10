@@ -1,0 +1,7 @@
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Six Part Console App\Six Part Console App\bin\Debug\Six Part Console App.exe.config
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Six Part Console App\Six Part Console App\bin\Debug\Six Part Console App.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Six Part Console App\Six Part Console App\bin\Debug\Six Part Console App.pdb
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Six Part Console App\Six Part Console App\obj\Debug\Six Part Console App.csproj.AssemblyReference.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Six Part Console App\Six Part Console App\obj\Debug\Six Part Console App.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Six Part Console App\Six Part Console App\obj\Debug\Six Part Console App.exe
+C:\Users\ryan\Documents\Jada's Github\C_Sharp-Portfolio\Six Part Console App\Six Part Console App\obj\Debug\Six Part Console App.pdb
