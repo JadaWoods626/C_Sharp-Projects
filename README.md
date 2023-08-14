@@ -1,11 +1,15 @@
-# C_Sharp-Portfolio
+# C# and .NET Framework Projects
 
-These are the projects that I have using C# and .Net Framework.
+Welcome to the C# and .NET Framework Projects repository! This repository houses a variety of small projects and practice applications that have been created using C# and the .NET Framework.
 
-Projects:
+### Car Insurance
 
-Car insurance:
-This project is an MVC web application that is built like a car insurance website.
+This MVC web application simulates a car insurance website. Through this project, you can explore the implementation of various web components and features associated with car insurance services.
 
-Twenty One Card Game:
-A simple and fun console app that takes the card game 21 to a new level.
+### Twenty-One Card Game
+
+Experience a new twist on the classic card game 21 with this console application. The Twenty-One Card Game project offers an enjoyable and straightforward gameplay experience right in your terminal.
+
+## Conclusion
+
+Feel free to explore any of the projects in this repository by accessing their respective folders. Each project comes with its own set of instructions and documentation to guide you through its functionality and features.
